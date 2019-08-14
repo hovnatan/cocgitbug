@@ -1,0 +1,2 @@
+# cocgitbug
+cocnvim test
